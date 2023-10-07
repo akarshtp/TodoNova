@@ -4,10 +4,12 @@ Web-Based To-Do List Application
 created an intuitive and user-friendly to-do list platform.
 Enabled users to delete tasks with a single click, making taskmanagement efficient.
 
-Technologies Used: 	Python (Flask) for the backend server.
+Technologies Used: 
 
- HTML, CSS, and JavaScript for the frontend interface.
+  Python (Flask) for the backend server.
 
- Git for version control and project collaboration.
+  HTML, CSS, and JavaScript for the frontend interface.
+
+  Git for version control and project collaboration.
 
 
